@@ -1,5 +1,5 @@
 # WeAct-stm32F411EU-micropython-lib
-WeAct开发板上的micropython样例，基于STM32F411UE处理器，管脚功能参见：
+WeAct开发板上的micropython样例，基于STM32F411UE处理器,使用I2C接口，通过PAC9685舵机控制器控制舵，管脚功能参见：
 
 https://www.weact-tc.cn/2020/01/01/micropython/
 
